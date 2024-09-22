@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AgendaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+
+        <!--        Primary brand color-->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!--        Secondary brand color-->
+        <item name="colorSecondary">@color/gris_claro</item>
+        <item name="colorSecondaryVariant">@color/morado</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!--        Status bar color-->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!--        Costumize your dark theme here.-->
+    </style>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AgendaApp</string>
+
+    <string-array name="dias_semana">
+        <item>*Selecciona un dia</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sabado</item>
+        <item>Domingo</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hora_de_la_cita">* Hora de la cita</string>
+</resources>
